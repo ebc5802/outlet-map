@@ -7,7 +7,7 @@
 
 Ever walked into a café desperately needing a charge, only to find zero available outlets? **Plugged** is a crowd-sourced web app that lets New Yorkers pin and share publicly accessible electrical outlets on an interactive NYC map.
 
-Built as part of the [Tech Treks](https://engineering.nyu.edu/academics/programs/k12-stem-education/nyc-tech-talent-pipeline/tech-treks) program.
+Built as part of [Tech@NYU's Tech Treks](https://techatnyu.org/programs/tech-treks) program — a semester-long cohort where small teams build a full-stack project for their portfolio.
 
 ---
 
@@ -74,6 +74,18 @@ npm run start
 ```bash
 npm run build
 ```
+
+---
+
+## Challenges
+
+| Challenge | Status |
+|---|---|
+| Building the interactive map UI with add/remove pin functionality | ✅ Solved |
+| Designing the MySQL schema for coordinates, addresses, and descriptors | ✅ Solved |
+| Connecting the Spring Boot backend to the React frontend locally | ✅ Solved |
+| Persisting new pins to the database on confirmation | ✅ Solved |
+| Remote database connectivity for a live deployment | 🚧 In progress |
 
 ---
 
