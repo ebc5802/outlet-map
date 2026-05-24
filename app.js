@@ -9,7 +9,7 @@ import { Popup } from 'react-map-gl';
 import '/app.css'
 
 import 'mapbox-gl/dist/mapbox-gl.css';
-const MAPBOX_TOKEN = 'pk.eyJ1Ijoia3dhbmcyMDAyIiwiYSI6ImNsZ2d5dXRnYjBnY3IzZW1vMmZhZmlmNHgifQ.X2yO9r0KRGfgdkly34ophw'; // Set your mapbox token here
+const MAPBOX_TOKEN = process.env.MapboxAccessToken; // Set MapboxAccessToken in your .env
 
 function Root() {
     const [viewState, setViewState] = React.useState({
