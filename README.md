@@ -9,6 +9,8 @@ Ever walked into a café desperately needing a charge, only to find zero availab
 
 Built as part of [Tech@NYU's Tech Treks](https://techatnyu.org/programs/tech-treks) program — a semester-long cohort where small teams build a full-stack project for their portfolio.
 
+📊 [View Presentation](./Team%20Plugged.pdf)
+
 ---
 
 ## Features
@@ -98,5 +100,3 @@ npm run build
 | Edison Chen | Backend |
 | Chloe Han | Backend |
 | Christopher Li | Backend |
-
-📊 [View Presentation](https://drive.google.com/file/d/1-kG0LoLKk2ss7srXB0UOUbPYzE8v7KSu/view?usp=sharing)
