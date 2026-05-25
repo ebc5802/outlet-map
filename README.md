@@ -9,6 +9,8 @@ Ever walked into a café desperately needing a charge, only to find zero availab
 
 Built as part of [Tech@NYU's Tech Treks](https://techatnyu.org/programs/tech-treks) program — a semester-long cohort where small teams build a full-stack project for their portfolio.
 
+![Plugged NYC outlet map showing crowd-sourced pins across Manhattan](./assets/preview.png)
+
 📊 [View Presentation](./Team%20Plugged.pdf)
 
 ---
